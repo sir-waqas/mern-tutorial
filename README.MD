@@ -25,3 +25,7 @@
 - Prettier - Code Formatter
 - Liver Server (To serve html only stuff)
 - Node.js Modules Intellisense
+
+### Backend
+
+- Host a DB on mLab
