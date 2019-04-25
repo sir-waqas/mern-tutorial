@@ -29,3 +29,7 @@
 ### Backend
 
 - Host a DB on mLab
+- Installing the Dpendencies and Initializing the app
+  - npm init
+  - npm i express mongoose passport passport-jwt jsonwebtoken body-parser bcryptjs validator
+  - npm i -D nodemon

@@ -1,0 +1,19 @@
+{
+  "name": "mern_tutorial",
+  "version": "1.0.0",
+  "description": "MERN Tutorial",
+  "main": "mern.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sir-waqas/mern-tutorial.git"
+  },
+  "author": "Waqas Azam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sir-waqas/mern-tutorial/issues"
+  },
+  "homepage": "https://github.com/sir-waqas/mern-tutorial#readme"
+}
