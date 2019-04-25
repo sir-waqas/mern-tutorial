@@ -1,6 +1,6 @@
-#MERN--Tutorial
+## MERN--Tutorial
 
-###Technologies Involved:
+### Technologies Involved:
 Java Script
 NodeJS/Express
 MongoDB
